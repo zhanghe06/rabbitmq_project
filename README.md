@@ -80,15 +80,14 @@ sudo rabbitmqctl list_channels
 [Pika’s Doc](https://pika.readthedocs.org)
 
 
-## Run
+## Demo List
 
-```
-$ python send.py  
-[x] Sent 'Hello World!' 
-```
+- [Hello World](./demo/Hello%20World)
+- [Work Queues](./demo/Work%20Queues)
+- [Publish Subscribe](./demo/Publish%20Subscribe)
+- [Routing](./demo/Routing)
 
-```
-$ python receive.py  
-[*] Waiting for messages. To exit press CTRL+C  
-[x] Received 'Hello World!' 
-```
+
+## RabbitMQ Tutorials for Python
+
+[RabbitMQ Tutorials for Python](http://www.rabbitmq.com/tutorials/tutorial-one-python.html)
